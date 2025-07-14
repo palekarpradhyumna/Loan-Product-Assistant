@@ -49,8 +49,8 @@ loan-product-assistant/
 
 ### ✅ 1. Clone this repository
 
-```bash
-git clone https://github.com/your-username/loan-product-assistant.git
+```bash[
+(https://github.com/palekarpradhyumna/Loan-Product-Assistant)
 cd loan-product-assistant
 ```
 
