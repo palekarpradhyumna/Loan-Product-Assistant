@@ -58,8 +58,8 @@ cd loan-product-assistant
 
 ```bash
 python -m venv env
-.\env\Scriptsctivate           # On Windows
-
+.\env\Scripts\activate           # On Windows
+```
 ### ✅ 3. Install all dependencies
 
 ```bash
