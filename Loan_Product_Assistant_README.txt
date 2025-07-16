@@ -53,7 +53,8 @@ loan-product-assistant/
 
 4. Add your Cohere API key:
    Create a file named `.env` in the project root:
-   COHERE_API_KEY= 
+  $env:COHERE_API_KEY = "cLjGuamzwJ7nU7BOPFzSco1l08VgEQgmef52eFWJ"
+
 
 ───────────────────────────────
 ▶️ To Run the Assistant
