@@ -67,8 +67,6 @@ pip install -r requirements.txt
 ```
 
 ### ✅ 4. Add your Cohere API key
-
-Create a file named `.env` in the project root:
 ```
 $env:COHERE_API_KEY = "cLjGuamzwJ7nU7BOPFzSco1l08VgEQgmef52eFWJ"
 
