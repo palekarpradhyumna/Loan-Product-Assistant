@@ -70,7 +70,8 @@ pip install -r requirements.txt
 
 Create a file named `.env` in the project root:
 ```
-COHERE_API_KEY=your_cohere_key_here
+$env:COHERE_API_KEY = "cLjGuamzwJ7nU7BOPFzSco1l08VgEQgmef52eFWJ"
+
 ```
 
 You can get your key from https://dashboard.cohere.com/
